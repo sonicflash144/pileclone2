@@ -1,4 +1,4 @@
-# Pileclone
+# AI Journaler
 
 This is an AI-powered journaling app. Your entries are all stored locally, taggable, and easily searchable.
 
